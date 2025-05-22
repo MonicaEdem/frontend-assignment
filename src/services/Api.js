@@ -1,6 +1,5 @@
 // src/services/api.js
 import axios from 'axios';
-const VITE_API_BASE_URL= 'https://mock-data-josw.onrender.com'
 
 const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
 
